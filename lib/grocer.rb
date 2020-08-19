@@ -13,7 +13,8 @@ def consolidate_cart(cart)
   new_array = []
   counter = 0 
   while 
-end
+  
+  end
 
 end
 
